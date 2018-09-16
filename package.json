@@ -1,19 +1,19 @@
 {
-	"name": "lisk",
-	"version": "1.2.0-alpha.0",
-	"description": "Lisk blockchain application platform",
+	"name": "force blockchain",
+	"version": "0.1.0",
+	"description": "FORCE dPoS/PoP game community blockchain.",
 	"author":
-		"Lisk Foundation <admin@lisk.io>, lightcurve GmbH <admin@lightcurve.io>",
+		"TriForce Tokens Ltd <support@triforcetokens.io>",
 	"license": "GPL-3.0",
 	"private": true,
-	"keywords": ["cryptocurrency", "blockchain", "lisk", "nodejs", "javascript"],
-	"homepage": "https://github.com/LiskHQ/lisk#readme",
+	"keywords": ["cryptocurrency", "blockchain", "force", "nodejs", "javascript"],
+	"homepage": "https://github.com/TriForceNetwork/force-blockchain#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/LiskHQ/lisk.git"
+		"url": "git+https://github.com/TriForceNetwork/force-blockchain.git"
 	},
 	"bugs": {
-		"url": "https://github.com/LiskHQ/lisk/issues"
+		"url": "https://github.com/TriForceNetwork/force-blockchain/issues"
 	},
 	"engines": {
 		"node": ">=6.14.1 <=8.11.3",
@@ -123,7 +123,7 @@
 		"supertest": "=3.0.0"
 	},
 	"snyk": true,
-	"lisk": {
-		"minVersion": "1.0.0"
+	"force_blockchain": {
+		"minVersion": "0.1.0"
 	}
 }
