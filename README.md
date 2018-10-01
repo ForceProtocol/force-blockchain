@@ -6,7 +6,7 @@ FORCE blockchain has been engineered with the vision:
 gives consumers high quality gaming experiences, whilst supporting
 growth of game developers, publishers and global brands."
 
-The development of which serves to create the most unversal games engineered blockchain that facilitates community collaboration through services, third-party applications and value transfer.
+The development of which serves to create the most universal games engineered blockchain that facilitates community collaboration through services, third-party applications and value transfer.
 
 **THIS IS A PRE-TESTNET VERSION - DO NOT ATTEMPT TO USE UNTIL AN OFFICIAL LAUNCH PLAN IS ANNOUNCED**
 
