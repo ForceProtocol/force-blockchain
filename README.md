@@ -10,16 +10,16 @@ The development of which serves to create the most universal games engineered bl
 
 **THIS IS A PRE-TESTNET VERSION - DO NOT ATTEMPT TO USE UNTIL AN OFFICIAL LAUNCH PLAN IS ANNOUNCED**
 
-[Details about the development of FORCE blockchain is listed here](https://triforcetokens.io/force-blockchain).
+[Details about the development of FORCE blockchain is listed here](https://forceprotocol.io/force-blockchain).
 
 
 ## Contributors
 
-https://github.com/TriForceNetwork/force-blockchain/graphs/contributors
+https://github.com/ForceProtocol/force-blockchain/graphs/contributors
 
 ## License
 
-Copyright © 2018 TriForce Tokens Ltd
+Copyright © 2018 Force Protocol Ltd
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
